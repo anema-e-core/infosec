@@ -1,2 +1,5 @@
 Method for bypassing the UAC using the event viewer and registry
 https://enigma0x3.net/2016/08/15/fileless-uac-bypass-using-eventvwr-exe-and-registry-hijacking/ 
+
+Bypassing the UAC using disk cleanup
+https://enigma0x3.net/2016/07/22/bypassing-uac-on-windows-10-using-disk-cleanup/
